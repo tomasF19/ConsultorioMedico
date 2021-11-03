@@ -1,0 +1,13 @@
+C:\Users\tomas\Desktop\programacion\C#\Clinica\bin\Debug\netcoreapp3.1\Clinica.exe
+C:\Users\tomas\Desktop\programacion\C#\Clinica\bin\Debug\netcoreapp3.1\Clinica.deps.json
+C:\Users\tomas\Desktop\programacion\C#\Clinica\bin\Debug\netcoreapp3.1\Clinica.runtimeconfig.json
+C:\Users\tomas\Desktop\programacion\C#\Clinica\bin\Debug\netcoreapp3.1\Clinica.runtimeconfig.dev.json
+C:\Users\tomas\Desktop\programacion\C#\Clinica\bin\Debug\netcoreapp3.1\Clinica.dll
+C:\Users\tomas\Desktop\programacion\C#\Clinica\bin\Debug\netcoreapp3.1\Clinica.pdb
+C:\Users\tomas\Desktop\programacion\C#\Clinica\obj\Debug\netcoreapp3.1\Clinica.csprojAssemblyReference.cache
+C:\Users\tomas\Desktop\programacion\C#\Clinica\obj\Debug\netcoreapp3.1\Clinica.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Desktop\programacion\C#\Clinica\obj\Debug\netcoreapp3.1\Clinica.AssemblyInfoInputs.cache
+C:\Users\tomas\Desktop\programacion\C#\Clinica\obj\Debug\netcoreapp3.1\Clinica.AssemblyInfo.cs
+C:\Users\tomas\Desktop\programacion\C#\Clinica\obj\Debug\netcoreapp3.1\Clinica.dll
+C:\Users\tomas\Desktop\programacion\C#\Clinica\obj\Debug\netcoreapp3.1\Clinica.pdb
+C:\Users\tomas\Desktop\programacion\C#\Clinica\obj\Debug\netcoreapp3.1\Clinica.genruntimeconfig.cache
